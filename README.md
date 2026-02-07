@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratlike" alt="bisratlike" /></a> </p>
 
-- 🔭 I’m currently working on **go Digital Finance**
+- 🔭 I’m currently working on **Aqua Pro Green House project**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **Infra**
 
 - 😄 Pronouns: **she/her**
 
 - 👨‍💻 Check my Portfolio [https://bisratmelak-portfolio.netlify.app/index-01.html](https://bisratmelak-portfolio.netlify.app/index-01.html)
 
-- 💬 Ask me about **nodeJS**
+- 💬 Ask me about **GO**
 
 - 📫 How to reach me **bisratlike@gmail.com**
 
